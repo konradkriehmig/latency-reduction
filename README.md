@@ -1,4 +1,4 @@
-# Low-Latency Trading System, what it does?
+# Low-Latency Trading System, what it does:
 
 I deployed a high-performance VM as close as I can to the NYSE.
 
