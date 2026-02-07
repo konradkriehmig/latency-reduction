@@ -11,6 +11,9 @@ I have high computing power in my VM that is useful for intensive backtesting (t
 - **S&P data → East US VM **: 6ms average  
 - **Improvement**: 92% latency reduction
 
+## Infrastructure 
+![Built in Azure](./assets/infra.png)
+
 ## Setup
 ```bash
 pip install -r requirements.txt
