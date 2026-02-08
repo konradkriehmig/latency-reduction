@@ -21,7 +21,7 @@ My new fast Machine:
 ## Infrastructure 
 ![Built in Azure](./assets/infra.png)
 
-Can you be faster than me? :) --> if you want to try:
+Can you be faster than me? --> if you want to try:
 
 # Setup
 
