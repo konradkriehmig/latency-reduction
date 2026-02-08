@@ -12,7 +12,8 @@ I have high computing power in my VM that is useful for intensive backtesting (t
 - **Citadel → S&P data**: >1ms according to Claude
 
 My Laptop:
-![asdf2](./assets/preview3.png)
+
+![asdf3](./assets/preview3.png)
 
 My new fast Machine:
 ![asdf2](./assets/preview2.png)
