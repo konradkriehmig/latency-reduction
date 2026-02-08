@@ -32,9 +32,6 @@ Can you be faster than me? --> if you want to try:
    $env:ALPACA_API_KEY="your-key-here"
    $env:ALPACA_SECRET_KEY="your-secret-here"
 5. go
-   
-##Prerequisits:
-- Python 3.12+
-- Azure account (for VM deployment)
-- Alpaca Markets account (free paper trading account)
+
+Easy :)
 
